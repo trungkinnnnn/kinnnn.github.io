@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tiki clon</title>
+	<atom:link href="httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/feed/" rel="self" type="application/rss+xml" />
+	<link>httphttps://github.com/trungkinnnnn/kinnnn.github.io.git</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Sep 2023 12:12:04 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>học wordpress</title>
+		<link>httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/2023/09/08/hoc-wordpress/</link>
+					<comments>httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/2023/09/08/hoc-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[trung kien]]></dc:creator>
+		<pubDate>Fri, 08 Sep 2023 12:12:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/?p=10</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/2023/09/08/hoc-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/2023/08/21/hello-world/</link>
+					<comments>httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/2023/08/21/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[trung kien]]></dc:creator>
+		<pubDate>Mon, 21 Aug 2023 17:08:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httphttps://github.com/trungkinnnnn/kinnnn.github.io.git/2023/08/21/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
